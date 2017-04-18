@@ -1,9 +1,14 @@
-# api documentation for  [gulp-favicons (v2.2.7)](https://github.com/haydenbleasel/favicons#gulp)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-favicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-favicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-favicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-favicons)
+# npmdoc-gulp-favicons
+
+#### api documentation for  [gulp-favicons (v2.2.7)](https://github.com/haydenbleasel/favicons#gulp)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-favicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-favicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-favicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-favicons)
+
 #### Favicons generator for Gulp
 
-[![NPM](https://nodei.co/npm/gulp-favicons.png?downloads=true)](https://www.npmjs.com/package/gulp-favicons)
+[![NPM](https://nodei.co/npm/gulp-favicons.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-favicons)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-favicons/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-favicons_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-favicons/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-favicons/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-favicons/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-favicons/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-favicons/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-favicons/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Hayden Bleasel",
-        "email": "haydenbleasel@gmail.com"
+        "name": "Hayden Bleasel"
     },
     "bugs": {
         "url": "https://github.com/haydenbleasel/favicons/issues"
@@ -50,13 +54,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "haydenbleasel",
-            "email": "haydenbleasel@gmail.com"
+            "name": "haydenbleasel"
         }
     ],
     "name": "gulp-favicons",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/haydenbleasel/favicons.git#gulp"
@@ -67,17 +69,6 @@
     "version": "2.2.7"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-favicons](#apidoc.module.gulp-favicons)
-1.  object <span class="apidocSignatureSpan">gulp-favicons.</span>config
-
-
-
-# <a name="apidoc.module.gulp-favicons"></a>[module gulp-favicons](#apidoc.module.gulp-favicons)
 
 
 
