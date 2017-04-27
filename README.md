@@ -1,6 +1,6 @@
 # npmdoc-gulp-favicons
 
-#### api documentation for  [gulp-favicons (v2.2.7)](https://github.com/haydenbleasel/favicons#gulp)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-favicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-favicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-favicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-favicons)
+#### basic api documentation for  [gulp-favicons (v2.2.7)](https://github.com/haydenbleasel/favicons#gulp)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-favicons.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-favicons) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-favicons.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-favicons)
 
 #### Favicons generator for Gulp
 
@@ -66,7 +66,8 @@
     "scripts": {
         "test": "cd test && gulp"
     },
-    "version": "2.2.7"
+    "version": "2.2.7",
+    "bin": {}
 }
 ```
 
