@@ -43,7 +43,7 @@
 <tspan x="10" y="650">    │ │ ├─┬ parse-bmfont-xml@1.1.3 </tspan>
 <tspan x="10" y="666">    │ │ │ └── xml-parse-from-string@1.0.0 </tspan>
 <tspan x="10" y="682">    │ │ └─┬ xhr@2.4.0 </tspan>
-<tspan x="10" y="698">    │ │   ├─┬ global@4.3.1 </tspan>
+<tspan x="10" y="698">    │ │   ├─┬ global@4.3.2 </tspan>
 <tspan x="10" y="714">    │ │   │ ├─┬ min-document@2.19.0 </tspan>
 <tspan x="10" y="730">    │ │   │ │ └── dom-walk@0.1.1 </tspan>
 <tspan x="10" y="746">    │ │   │ └── process@0.5.2 </tspan>
@@ -90,7 +90,7 @@
 <tspan x="10" y="1402">    │ │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="1418">    │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1434">    │ │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="1450">    │ │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="1450">    │ │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="1466">    │ │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1482">    │ │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="1498">    │ │ │   ├── jsbn@0.1.1 </tspan>
